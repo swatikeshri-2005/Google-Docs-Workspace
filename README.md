@@ -54,6 +54,8 @@ Built with modern full-stack technologies to support live collaboration, authent
 ---
 
 # 📁 Project Structure
+
+
 google-docs-clone/
 │
 ├── package.json               <-- ROOT (Controls everything)
@@ -143,9 +145,8 @@ npm run dev
 Add your screenshot here
 
 ```md
-<img width="1920" height="1080" alt="Screenshot 2026-05-29 123731" src="https://github.com/user-attachments/assets/8bb7c0b5-56d1-4b93-ab14-8f7ddca5cd2e" />
+<img width="1920" height="1080" alt="Screenshot 2026-05-29 123731" src="https://github.com/user-attachments/assets/91c5e664-3510-4316-bba4-09ad593ad17f" />
 
-"C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2026-05-29 123731.png"
 
 ```
 
