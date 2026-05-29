@@ -1,0 +1,14 @@
+{
+    "name":"docs-clone-backend",
+    "version": "1.0.0",
+    "scripts":{
+        "dev": "nodemon server.js"
+    },
+
+    "dependencies":{
+        "express": "^4.19.2",
+    "ws": "^8.16.0",
+    "y-websocket": "^2.0.4",
+    "yjs": "^13.6.14"
+}
+}
